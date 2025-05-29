@@ -19,4 +19,4 @@ git clone git@github.com:your-username/flask-ci-cd-app.git
 cd flask-ci-cd-app
 docker-compose up --build
 
-localhost:5000
+http://localhost:5000
